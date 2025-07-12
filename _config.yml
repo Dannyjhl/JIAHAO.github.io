@@ -28,7 +28,7 @@ author:
   bio              : "4th-year undergraduate student at the McGill University’s Computer Science"
   location         : "Montreal, Canada"
   employer         : "McGill University"
-  uri              : # URL
+  phone            : "4383046934"
   email            : "sflsliangjiahao@163.com" 
 
   # Academic websites
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/jiahao-liang-b643b1256/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
