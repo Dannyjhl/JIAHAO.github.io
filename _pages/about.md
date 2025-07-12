@@ -20,3 +20,11 @@ At [McHacks 11](https://devpost.com/software/box-my-professor), I built [Box My 
 
 With the [McGill Robotics](https://mcgillrobotics.com/) Team, I develop software for an Autonomous Underwater Vehicle (AUV). My work focuses on control logic and sensor integration, enabling the robot to navigate underwater using visual and acoustic cues.
 
+🎯 Research Interests
+---
+I'm passionate about applying generative AI and computational methods to address complex, real-world challenges. My research interests lie in information retrieval and natural language processing, with a focus on retrieval-augmented generation (RAG), multi-agent collaboration.
+
+ I'm also deeply interested in visual perception and navigation in robotics as well as optimizing AI models for GPU acceleration, bridging the gap between deep learning and high-performance computing.
+
+
+
