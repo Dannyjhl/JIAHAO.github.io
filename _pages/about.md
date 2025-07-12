@@ -12,13 +12,13 @@ Afterward in 2024, I joined <span style="color: #e63946;">AMD (Advanced Micro De
 
 🔬 Research
 ---
-I am currently conducting research under the supervision of Prof. [Renée Sieber](https://rose.geog.mcgill.ca/) on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in **NLP**, **retrieval-augmented generation (RAG)**, prompt engineering, large language model (LLM) training, and tackling I/O challenges inherent in large-scale document processing pipelines.
+I am currently conducting research under the supervision of Prof. [Renée Sieber](https://rose.geog.mcgill.ca/) on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in <span style="color: #e63946;">NLP</span>, <span style="color: #e63946;">retrieval-augmented generation (RAG) </span>, prompt engineering, large language model (LLM) training, and tackling I/O challenges inherent in large-scale document processing pipelines.
 
 🚀 Projects
 ---
-At [McHacks 11](https://devpost.com/software/box-my-professor), I built [Box My Professor](https://github.com/s026352/MCHACKS11), a gamified AI demo that won the “Achievement Unlocked” award. I implemented **real-time gesture control** with MediaPipe, created 3D avatars from images using AI + Unity, and added interactive features like punch physics, music, and score tracking.
+At [McHacks 11](https://devpost.com/software/box-my-professor), I built [Box My Professor](https://github.com/s026352/MCHACKS11), a gamified AI demo that won the “Achievement Unlocked” award. I implemented <span style="color: #e63946;">real-time gesture control</span> with MediaPipe, created 3D avatars from images using AI + Unity, and added interactive features like punch physics, music, and score tracking.
 
-With the [McGill Robotics](https://mcgillrobotics.com/) Team, I develop software for an Autonomous Underwater Vehicle (AUV). My work focuses on **control logic** and sensor **integration**, enabling the robot to navigate underwater using visual and acoustic cues.
+With the [McGill Robotics](https://mcgillrobotics.com/) Team, I develop software for an Autonomous Underwater Vehicle (AUV). My work focuses on <span style="color: #e63946;">control logic</span> and <span style="color: #e63946;">sensor integration</span>, enabling the robot to navigate underwater using visual and acoustic cues.
 
 🎯 Research Interests
 ---
