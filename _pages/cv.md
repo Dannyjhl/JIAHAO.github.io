@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "My CV"
 permalink: /cv/
 ---
 
-<img src="/images/cv_preview.png" alt="Jiahao Liang CV" style="max-width: 100%; border: 1px solid #ccc; margin-bottom: 20px;">
+<img src="/images/cv1.png" alt="Jiahao Liang CV" style="max-width: 100%; border: 1px solid #ccc; margin-bottom: 20px;">
 
-<p><a href="/files/cv.pdf" class="btn btn--info" download>📄 Download My Full CV (PDF)</a></p>
+<p><a href="/files/JIAHAO LIANG(E).pdf" class="btn btn--info" download>📄 Download My Full CV (PDF)</a></p>
