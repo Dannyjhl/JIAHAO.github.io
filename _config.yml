@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Danny.png"
+  avatar           : "profile.png"
   name             : "JIAHAO LIANG"
   pronouns         : # example: "she/her"  
   bio              : "4th-year undergraduate student at the McGill University’s Computer Science"
