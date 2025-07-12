@@ -16,7 +16,7 @@ I am currently conducting research under the supervision of Prof. [Renée Sieber
 
 🚀 Projects
 ---
-At McHacks 11, I built Box My Professor, a gamified AI demo that won the “Achievement Unlocked” award. I implemented real-time gesture control with MediaPipe, created 3D avatars from images using AI + Unity, and added interactive features like punch physics, music, and score tracking.
+At [McHacks 11](https://devpost.com/software/box-my-professor), I built [Box My Professor](https://github.com/s026352/MCHACKS11), a gamified AI demo that won the “Achievement Unlocked” award. I implemented real-time gesture control with MediaPipe, created 3D avatars from images using AI + Unity, and added interactive features like punch physics, music, and score tracking.
 
-With the McGill Robotics Team, I develop software for an Autonomous Underwater Vehicle (AUV). My work focuses on control logic and sensor integration, enabling the robot to navigate underwater using visual and acoustic cues.
+With the [McGill Robotics](https://mcgillrobotics.com/) Team, I develop software for an Autonomous Underwater Vehicle (AUV). My work focuses on control logic and sensor integration, enabling the robot to navigate underwater using visual and acoustic cues.
 
