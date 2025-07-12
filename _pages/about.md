@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 💼Internship Experience
 ---
 In 2023, I interned at KEMU Technology in Suzhou, where I helped maintain a high-traffic database supporting over 30 million entries and 20,000+ daily visits. I also developed a viral restaurant exploration mini-program that attracted over 300 TikTok influencers and reached 32,000 daily users.
