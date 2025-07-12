@@ -8,7 +8,7 @@ redirect_from:
 ---
 In 2023, I interned at KEMU Technology in Suzhou, where I helped maintain a high-traffic database supporting over 30 million entries and 20,000+ daily visits. I also developed a viral restaurant exploration mini-program that attracted over 300 TikTok influencers and reached 32,000 daily users.
 
-Afterward in 2024, I joined <strong>AMD<strong> (Advanced Micro Devices) in Shanghai as a software intern, where I worked on real-time video AI applications. I developed a GPU-accelerated face-swapping system that combined object detection with FFmpeg and RyzenAI. This involved replacing CPU-bound OpenCV processing with custom shaders, optimizing performance to maintain 20 FPS through asynchronous CPU-GPU execution.
+Afterward in 2024, I joined <span style="color: #e63946;">AMD<span> (Advanced Micro Devices) in Shanghai as a software intern, where I worked on real-time video AI applications. I developed a GPU-accelerated face-swapping system that combined object detection with FFmpeg and RyzenAI. This involved replacing CPU-bound OpenCV processing with custom shaders, optimizing performance to maintain 20 FPS through asynchronous CPU-GPU execution.
 
 🔬 Research
 ---
