@@ -12,7 +12,7 @@ Afterward in 2024, I joined <span style="color: #e63946;">AMD (Advanced Micro De
 
 🔬 Research
 ---
-I am currently conducting research under the supervision of Prof. [Renée Sieber](https://rose.geog.mcgill.ca/) on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in <span style="color: #e63946;">NLP</span>, <span style="color: #e63946;">retrieval-augmented generation (RAG) </span>, prompt engineering, large language model (LLM) training, and tackling I/O challenges inherent in large-scale document processing pipelines.
+I am currently conducting research under the supervision of Prof. [Renée Sieber](https://rose.geog.mcgill.ca/) on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in <span style="color: #e63946;">NLP </span>, <span style="color: #e63946;">retrieval-augmented generation (RAG) </span>, prompt engineering, large language model (LLM) training, and tackling I/O challenges inherent in large-scale document processing pipelines.
 
 🚀 Projects
 ---
