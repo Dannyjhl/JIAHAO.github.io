@@ -76,7 +76,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-'''
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -354,4 +354,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-'''
+
