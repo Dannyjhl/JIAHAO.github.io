@@ -12,13 +12,11 @@ redirect_from:
 ---
 In 2023, I interned at KEMU Technology in Suzhou, maintaining a high-traffic database (30M+ entries, 20K+ daily visits) and developing a viral restaurant mini-program with 32K daily users.
 
-In 2024, I joined <span style="color: #e63946;">AMD</span> in Shanghai as a software intern, where I built a real-time face-swapping system using FFmpeg, object detection, and <span style="color: #e63946;">RyzenAI</span>. I replaced CPU-bound OpenCV processing with custom GPU shaders and optimized asynchronous CPU-GPU execution to sustain 20 FPS.
+In 2024, I joined <span style="color: #e63946;">AMD</span> in Shanghai as a software intern, where I built a real-time face-swapping system using FFmpeg, object detection, and <span style="color: #e63946;">RyzenAI</span>. I replaced CPU-bound OpenCV processing with custom <span style="color: #e63946;">GPU shaders</span> and optimized asynchronous CPU-GPU execution to sustain 20 FPS.
 
 🔬 Research
 ---
-I am currently conducting research under the supervision of Prof. Renée Sieber on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in:
-
-Natural Language Processing (NLP)</span>
+Currently conducting research under the supervision of Prof. [Renée Sieber](https://rose.geog.mcgill.ca/) on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. Involves applying techniques:
 
 - Natural Language Processing (NLP)
 - Retrieval-Augmented Generation (RAG)
