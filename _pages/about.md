@@ -33,9 +33,17 @@ With the [McGill Robotics](https://mcgillrobotics.com/) Team, I develop software
 
 🎯 Research Interests
 ---
-I'm passionate about applying generative AI and computational methods to address complex, real-world challenges. My research interests lie in information retrieval and natural language processing, with a focus on retrieval-augmented generation (RAG), multi-agent collaboration.
+I'm passionate about using **generative AI** and **computational methods** to tackle real-world challenges. My work focuses on:
 
- I'm also deeply interested in visual perception and navigation in robotics as well as optimizing AI models for GPU acceleration, bridging the gap between deep learning and high-performance computing.
+- **Information Retrieval** & **Natural Language Processing**
+  - Retrieval-Augmented Generation (RAG)
+  - Multi-agent Collaboration
+- **Robotics**
+  - Visual Perception & Navigation
+- **AI Acceleration**
+  - GPU Optimization for Deep Learning
+  - Bridging Deep Learning & High-Performance Computing
+
 
 
 
