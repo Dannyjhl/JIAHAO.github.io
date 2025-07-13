@@ -18,16 +18,13 @@ In 2024, I joined <span style="color: #e63946;">AMD</span> in Shanghai as a soft
 ---
 I am currently conducting research under the supervision of Prof. Renée Sieber on the project Data Rescue: Archives & Weather, in partnership with CEIMIA. Our work aims to uncover weather-related vulnerabilities by analyzing both past and present disruptive weather events, leveraging digitized historical newspapers as a primary data source. This involves applying techniques in:
 
-<span style="color: #e63946;">Natural Language Processing (NLP)</span>
+Natural Language Processing (NLP)</span>
 
-<span style="color: #e63946;">Retrieval-Augmented Generation (RAG)</span>
-
-<span style="color: #e63946;">Prompt Engineering</span>
-
-<span style="color: #e63946;">Large Language Model (LLM) Training</span>
-
-<span style="color: #e63946;">High-throughput I/O Optimization for Document Processing Pipelines</span>
-
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Large Language Model (LLM) Training
+- High-throughput I/O Optimization for Document Processing Pipelines
 
 
 🚀 Projects
